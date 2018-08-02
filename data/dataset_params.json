@@ -1,0 +1,8 @@
+{
+    "dev_size": 7121,
+    "vocab_size": 49302,
+    "num_oov_buckets": 1,
+    "test_size": 7114,
+    "pad_word": "<pad>",
+    "train_size": 50846
+}
