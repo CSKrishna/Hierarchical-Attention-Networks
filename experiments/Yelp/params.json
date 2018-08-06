@@ -1,0 +1,12 @@
+{
+    "model_version": "HAN",
+    "GRU_num_units": 50,
+    "embedding_size": 200,
+
+    "learning_rate": 1e-3,
+    "batch_size": 64,
+    "num_epochs": 15,
+    "dropout_rate": 0.1,
+
+    "save_summary_steps": 50
+}
